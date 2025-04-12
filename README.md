@@ -10,3 +10,16 @@ A simple and elegant app that displays a random motivational quote on each butto
 
 ### 🔗 Live Demo
 [➡️ View Project](https://myrandom-quotes-generator.netlify.app/)
+
+
+---
+
+## 📍 Day 2 — Modal Pop-up Animation
+
+An interactive and animated modal box that smoothly appears from the top when triggered and disappears with a click. Styled using CSS transitions and controlled via JavaScript for toggling visibility.
+
+### 🔗 Live Demo
+
+[➡️ View Project](https://clickmodel.netlify.app/)
+
+---
