@@ -1,0 +1,67 @@
+/* General Reset and Base */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #111827; /* dark gray */
+    color: #f9fafb; /* light text */
+}
+
+.container {
+    background-color: #1f2937; /* slightly lighter dark */
+    padding: 3rem;
+    border-radius: 1rem;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.4);
+    text-align: center;
+    min-width: 320px;
+    width: 90%;
+    max-width: 400px;
+}
+
+/* Timer Text */
+#timer {
+    font-size: 3rem;
+    font-weight: 600;
+    margin-bottom: 2rem;
+    letter-spacing: 2px;
+}
+
+/* Buttons */
+.buttons {
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+}
+
+button {
+    background-color: #374151;
+    border: none;
+    border-radius: 50%;
+    padding: 1rem 1.2rem;
+    cursor: pointer;
+    transition: background 0.3s, transform 0.2s;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+button:hover {
+    background-color: #4b5563;
+    transform: scale(1.05);
+}
+
+button:active {
+    transform: scale(0.95);
+}
+
+button i {
+    font-size: 1.5rem;
+    color: #f3f4f6;
+}
+
