@@ -23,3 +23,11 @@ An interactive and animated modal box that smoothly appears from the top when tr
 [➡️ View Project](https://clickmodel.netlify.app/)
 
 ---
+
+
+# 📍 Day 3 — FAQ Accordion
+
+This project is a simple FAQ accordion that allows users to click on a question to reveal the answer. It uses JavaScript to toggle the visibility of the answers and CSS for smooth animations and interactive effects.
+
+### 🔗 Live Demo
+[➡️ View Project](https://my-faq-project.netlify.app/)
