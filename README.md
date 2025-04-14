@@ -31,3 +31,14 @@ This project is a simple FAQ accordion that allows users to click on a question 
 
 ### 🔗 Live Demo
 [➡️ View Project](https://my-faq-project.netlify.app/)
+
+---
+
+## 📍 Day 4 — Stopwatch
+
+A simple stopwatch built using JavaScript. It allows users to start, stop, and reset the timer, providing a hands-on example of managing time and events using JavaScript.
+
+### 🔗 Live Demo  
+[➡️ View Project](https://my-project-stop-watch.netlify.app/)
+
+---
