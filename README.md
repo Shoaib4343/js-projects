@@ -42,3 +42,13 @@ A simple stopwatch built using JavaScript. It allows users to start, stop, and r
 [➡️ View Project](https://my-project-stop-watch.netlify.app/)
 
 ---
+
+
+## 📍 Day 6 — BMI Calculator
+
+A beginner-friendly **BMI (Body Mass Index) Calculator** built using HTML, CSS, and JavaScript. Users can input their weight and height to get a real-time BMI result along with a health category like Underweight, Normal, Overweight, or Obese.
+
+### 🔗 Live Demo  
+[➡️ View Project](https://my-project-bmi-calculator.netlify.app/)
+
+---
