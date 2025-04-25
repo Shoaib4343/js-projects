@@ -39,7 +39,15 @@ A simple stopwatch built using JavaScript. It allows users to start, stop, and r
 [➡️ View Project](https://my-project-stop-watch.netlify.app/)
 
 ---
+## 📍 Background Gradient Color Changer
 
+A fun project that changes the background using randomly generated linear gradient colors. Click the buttons to generate new gradients and copy the color code with one click.
+
+### 🔗 Live Demo  
+[➡️ View Project](https://my-background-color-changer.netlify.app/)
+
+
+---
 ## 📍 BMI Calculator
 
 A beginner-friendly **BMI (Body Mass Index) Calculator** built using HTML, CSS, and JavaScript. Users can input their weight and height to get a real-time BMI result along with a health category like Underweight, Normal, Overweight, or Obese.
