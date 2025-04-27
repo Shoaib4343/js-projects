@@ -54,3 +54,13 @@ A beginner-friendly **BMI (Body Mass Index) Calculator** built using HTML, CSS, 
 
 ### 🔗 Live Demo  
 [➡️ View Project](https://my-project-bmi-calculator.netlify.app/)
+
+---
+
+## 📝 Todo List
+
+A simple and interactive Todo list where users can add tasks, mark them as complete, and delete them. It features a clean design and smooth user experience with check and delete functionalities.
+
+### 🔗 Live Demo  
+[➡️ View Project]([https://your-todo-project-link.com/](https://my-project-todo-app.netlify.app/))
+
