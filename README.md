@@ -64,3 +64,13 @@ A simple and interactive Todo list where users can add tasks, mark them as compl
 ### 🔗 Live Demo  
 [➡️ View Project](https://my-project-todo-app.netlify.app/)
 
+---
+
+
+## 📍 Color Changer
+
+A simple yet fun project where users can either pick a random color or enter a custom color to change the background dynamically. It also displays the current active color in real-time.
+
+### 🔗 Live Demo  
+[➡️ View Project](https://randomcolorpiker.netlify.app/)
+
