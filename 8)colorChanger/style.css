@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+.container{
+    height: 100vh;
+    background: teal;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.heading{
+    background: white;
+    padding: 10px;
+    border-radius: 10px;
+    
+}
+
+
+
+button{
+    padding: 10px 20px;
+    border: none;
+    background: white;
+    font-size: 20px;
+    border-radius: 10px;
+    transition: .5s all;
+    cursor: pointer;
+}
+
+button:active{
+    scale: 0.9;
+}
+
+#enterColor{
+    padding: 10px 20px;
+    font-size: 20px;
+    width: 20rem;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+}
+
+.currentTextContainer{
+    background: white;
+     padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 10px;
+    border: none;
+}
