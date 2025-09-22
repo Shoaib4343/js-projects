@@ -1,0 +1,100 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+body, html{
+    width: 100%;
+    height: 100%;
+}
+
+.container{
+    background: rgb(238, 236, 236);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    background: white;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-width: 30rem;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.116);
+    gap: 10px;
+}
+.cardHeading{
+    font-size: 2.5rem;
+}
+.searchUser{
+    width: 100%;
+}
+#searchUser{
+    width: 100%;
+    padding: 15px 10px;
+    border-radius: 10px;
+    outline: none;
+    border: 1px solid gray;
+}
+#searchUser:focus{
+    outline: 1px solid gray;
+}
+
+.userListContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+    width: 100%;
+    border-radius: 10px;
+    gap: 10px;
+    
+}
+.userList{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 6px;
+    /* background: #e903035d; */
+    width: 100%;
+    border-radius: 10px;
+    background: #00000008;
+    padding: 10px;
+}
+
+.imageSection{
+    height: 3rem;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.imageSection img{
+    height: 100%;
+    width: 100%;
+    object-position: top;
+}
+
+.contentSection{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    gap: 4px;
+    /* background: green; */
+
+}
+
+.contentSection h1{
+    font-size: 20px;
+    font-weight: 600;
+}
+.contentSection p{
+    font-size: 16px;
+    font-weight: 300;
+}
