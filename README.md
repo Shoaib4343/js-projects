@@ -74,3 +74,11 @@ A simple yet fun project where users can either pick a random color or enter a c
 ### 🔗 Live Demo  
 [➡️ View Project](https://randomcolorpiker.netlify.app/)
 
+
+---
+
+## 📍 Todo App
+A **Todo List application** built with JavaScript logic and better DOM handling. Users can add, delete, and manage tasks in a smooth and efficient way. 
+
+### 🔗 Live Demo  
+[➡️ View Project](https://dev43todoapp.netlify.app/)
