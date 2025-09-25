@@ -82,3 +82,12 @@ A **Todo List application** built with JavaScript logic and better DOM handling.
 
 ### 🔗 Live Demo  
 [➡️ View Project](https://dev43todoapp.netlify.app/)
+
+
+---
+
+## 📍 Calculator  
+A simple calculator built using HTML, CSS, and JavaScript. It supports basic arithmetic operations, clear functionality, and displays errors for invalid inputs.  
+
+### 🔗 Live Demo  
+[➡️ View Project](https://dev4343-calulator.netlify.app/)
