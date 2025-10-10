@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+        };
+        html,body{
+            width: 100%;
+            height: 100%;
+        }
+        .clickBtn{
+            padding: 10px 20px;
+            background: #000;
+            color: white;
+            border: none;
+            outline: none;
+            cursor: pointer;
+        }
+        .container{
+            background: rgba(128, 128, 128, 0.363);
+            position: absolute ;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100vh;
+            display: none;
+            justify-content: center;
+            align-items: center;
+            transition: opacity 0.3s ease;
+            opacity: 0;
+        }
+        .show{
+            display: flex;
+            opacity: 100;
+        }
+       
+        .card{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            max-width: 30rem;
+            background: white;
+            padding: 20px ;
+            border-radius: 10px;
+            gap: 20px;
+        }
+        .card p{
+            text-align: justify;
+        }
+
+        .closeBtn{
+            background: rgb(206, 17, 49);
+            padding: 10px 20px;
+            border: none;
+            outline: none;
+            cursor: pointer;
+            color: white;
+        }
+        
+    </style>
+</head>
+<body>
+    <button class="clickBtn">Click me</button>
+    <div class="container">
+        <div class="card">
+            <h1>Heading</h1>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed dolor officia tempora earum dolorem temporibus magnam eaque ea cupiditate? Nobis laudantium fugit officiis eum doloremque vel temporibus. Maxime, laudantium saepe!</p>
+            <button class="closeBtn">Close</button>
+        </div>
+    </div>
+
+
+    <script>
+        const clickBtn = document.querySelector(".clickBtn");   
+        const closeBtn = document.querySelector(".closeBtn");   
+        const container = document.querySelector(".container");
+
+        clickBtn.addEventListener("click",(e)=>{
+            container.classList.add("show")
+        })
+        closeBtn.addEventListener("click",()=>{
+            container.classList.remove("show")
+        })
+
+        container.addEventListener("click",(e)=>{
+           if(e.target.classList.contains('container')){
+            container.classList.remove("show")
+           }
+        })
+    </script>
+</body>
+</html>
