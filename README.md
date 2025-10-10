@@ -91,3 +91,13 @@ A simple calculator built using HTML, CSS, and JavaScript. It supports basic ari
 
 ### 🔗 Live Demo  
 [➡️ View Project](https://dev4343-calulator.netlify.app/)
+
+
+
+---
+## 📍 Modal Pop-up
+
+A simple modal pop-up created using HTML, CSS, and JavaScript. It opens when the button is clicked and closes when the close button or outside area is clicked. Smooth transitions and flexbox layout are used for styling.
+
+### 🔗 Live Demo  
+[➡️ View Project](https://mypopupmodel.netlify.app/)
