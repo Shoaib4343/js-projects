@@ -101,3 +101,16 @@ A simple modal pop-up created using HTML, CSS, and JavaScript. It opens when the
 
 ### 🔗 Live Demo  
 [➡️ View Project](https://mypopupmodel.netlify.app/)
+
+
+
+---
+# 🎯 Number Shooter Game
+
+A fun JavaScript game where you click the bubbles matching the target number before time runs out. Each correct click gives +10 points. When the timer hits 0, your final score appears!
+
+**Tech:** HTML, CSS, JavaScript  
+**Run:** Open `index.html` in your browser.
+
+### 🔗 Live Demo  
+[➡️ View Project](https://number-shooter-game.netlify.app/)
