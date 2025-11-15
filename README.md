@@ -114,3 +114,22 @@ A fun JavaScript game where you click the bubbles matching the target number bef
 
 ### 🔗 Live Demo  
 [➡️ View Project](https://number-shooter-game.netlify.app/)
+
+
+
+
+
+
+
+## 📍 Todo App
+
+A **Todo List application** built using JavaScript and MockAPI. Users can add tasks, update them, or delete them. The app dynamically updates the DOM and provides a clean, interactive UI.
+
+**Features:**
+- Add new tasks
+- Edit existing tasks
+- Delete tasks
+- Real-time DOM updates
+
+### 🔗 Live Demo  
+[➡️ View Project](https://mockapi-todo.netlify.app/)
